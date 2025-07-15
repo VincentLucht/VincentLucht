@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vincent</h1>
 <h3 align="center">A passionate Full Stack Developer from Germany</h3>
 
-- 📚 I’m currently working through [The Odin Project](https://www.theodinproject.com)
-- 🔭 In the process of developing a [Real Time Messaging App](https://github.com/VincentLucht/project-messaging-app)
+- 📚 I’m currently working through [CS50x](https://cs50.harvard.edu/x/)
+<!-- - 🔭 In the process of developing a [Real Time Messaging App](https://github.com/VincentLucht/project-messaging-app) -->
 - 📫 How to reach me: **vincentlucht04@gmail.com**
 
 ---
 
 ### Connect with me:
 <p align="left">
-  <!-- Add your social media links here -->
+  <!-- Add social media links here -->
 </p>
 
 ---
