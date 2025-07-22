@@ -33,7 +33,7 @@
       <a href="https://github.com/VincentLucht/project-odin-book" target="_blank">
         <img src="https://github.com/VincentLucht/project-odin-book/raw/main/demo.gif"  alt="Project demo gif"/>
         <h3>Reddnir</h3>
-        <p>A full featured reddit-like community based social media platform, where users can create posts and comments.</p>
+        <p>Community-driven social media platform featuring posts, comments, voting, moderation tools, and custom communities. Built with React, Node.js, and PostgreSQL.</p>
       </a>
     </td>
   </tr>
