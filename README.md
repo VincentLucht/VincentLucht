@@ -39,7 +39,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincentlucht&show_icons=true&locale=en&layout=compact" alt="vincentlucht" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vincentlucht&" size="10" alt="vincentlucht" />
-</p>
