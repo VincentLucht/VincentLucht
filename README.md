@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vincent</h1>
 <h3 align="center">A passionate Full Stack Developer from Germany</h3>
 
-- 📚 I’m currently working through [Princeton University Algorithms Part I](https://www.coursera.org/learn/algorithms-part1/)
+- 📚 I’m currently working through **[Princeton University Algorithms Part I](https://www.coursera.org/learn/algorithms-part1/)**
 - 📫 How to reach me: **vincentlucht04@gmail.com**
 
 ---
