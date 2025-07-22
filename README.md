@@ -12,29 +12,19 @@
 </p>
 
 ---
-
 ## ⚡️ Skills
+
 ### Languages:
 [![Languages](https://skillicons.dev/icons?i=js,ts,python,html,css,sqlite)](https://skillicons.dev)
-
-<div style="display: flex; gap: 20px;">
-<div>
 
 ### Frontend:
 [![Frontend](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
 
-</div>
-<div>
-
 ### Backend:
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma)](https://skillicons.dev)
-
-</div>
-</div>
+[![Tech Stack](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma)](https://skillicons.dev)
 
 ### Technologies and Tools:
 [![Tech Stack](https://skillicons.dev/icons?i=vite,npm,git,jest,vscode,webpack)](https://skillicons.dev)
-
 ---
 
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/>&nbsp;&nbsp; My best project</h2>
