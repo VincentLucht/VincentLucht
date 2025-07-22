@@ -21,6 +21,9 @@
 ### Frontend: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Backend:
 [![Frontend](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev) &nbsp; &nbsp; &nbsp; [![Tech Stack](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma)](https://skillicons.dev)
 
+### Frontend and Backend:
+[![Frontend](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev) &nbsp; <span style="font-size: 48px;">|</span> &nbsp; [![Backend](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma)](https://skillicons.dev)
+
 ### Technologies and Tools:
 [![Tech Stack](https://skillicons.dev/icons?i=vite,npm,git,jest,vscode,webpack)](https://skillicons.dev)
 
