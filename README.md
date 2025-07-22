@@ -27,12 +27,17 @@
 ---
 
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/>&nbsp;&nbsp; My best project</h2>
-<a href="https://github.com/VincentLucht/project-odin-book" target="_blank">
-    <img src="https://github.com/VincentLucht/project-odin-book/raw/main/demo.gif"  alt="Project demo gif"/>
-
-  <h3>Reddnir</h3>
-  <p>A full featured reddit-like community based social media platform, where users can create posts and comments.</p>
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/VincentLucht/project-odin-book" target="_blank">
+        <img src="https://github.com/VincentLucht/project-odin-book/raw/main/demo.gif" alt="Project demo gif"/>
+        <h3>Reddnir</h3>
+        <p>A full featured reddit-like community based social media platform, where users can create posts and comments.</p>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### GitHub Stats:
 <p align="center">
