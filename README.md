@@ -14,26 +14,21 @@
 ---
 
 ## ⚡️ Skills
+
 ### Languages:
+
 [![Languages](https://skillicons.dev/icons?i=js,ts,python,html,css,sqlite)](https://skillicons.dev)
 
-<div style="display:flex;">
-  <div style="display:flex; align-items:center; gap:8px; flex-direction:column;">
-    <h3>Frontend:</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,tailwind" />
-    </a>
-  </div>
-  
-  <div style="display:flex; align-items:center; gap:8px; flex-direction:column; margin-left:40px">
-    <h3>Backend:</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
-    </a>
-  </div>
-</div>
+### Frontend:
+
+[![Frontend](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
+
+### Backend:
+
+[![Tech Stack](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma)](https://skillicons.dev)
 
 ### Technologies and Tools:
+
 [![Tech Stack](https://skillicons.dev/icons?i=vite,npm,git,jest,vscode,webpack)](https://skillicons.dev)
 
 ---
