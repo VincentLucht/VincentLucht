@@ -17,14 +17,15 @@
 ### Languages:
 [![Languages](https://skillicons.dev/icons?i=js,ts,python,html,css,sqlite)](https://skillicons.dev)
 
-<div>
-  <div style="display: inline-block; margin-right: 50px;">
+<div style="display:flex; gap:20px">
+  <div style="display:flex; align-items:center; gap:8px">
     <h3>Frontend:</h3>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=react,tailwind" />
     </a>
   </div>
-  <div style="display: inline-block;">
+  
+  <div style="display:flex; align-items:center; gap:8px">
     <h3>Backend:</h3>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" />
