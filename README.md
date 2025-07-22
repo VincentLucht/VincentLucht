@@ -17,7 +17,7 @@
 ### Languages:
 [![Languages](https://skillicons.dev/icons?i=js,ts,python,html,css,sqlite)](https://skillicons.dev)
 
-<div align="center">
+<div>
   <div style="display: inline-block; margin-right: 50px;">
     <h3>Frontend:</h3>
     <a href="https://skillicons.dev">
