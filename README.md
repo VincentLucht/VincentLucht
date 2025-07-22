@@ -33,7 +33,7 @@
 
 ---
 
-<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/>&nbsp;&nbsp; My best project</h2>
+<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/>&nbsp;&nbsp; My best project</h2>
 <a href="https://github.com/VincentLucht/project-odin-book" target="_blank">
     <img src="https://github.com/VincentLucht/project-odin-book/raw/main/demo.gif"  alt="Project demo gif"/>
 
