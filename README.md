@@ -33,7 +33,7 @@
       <a href="https://github.com/VincentLucht/project-odin-book" target="_blank">
         <img src="https://github.com/VincentLucht/project-odin-book/raw/main/demo.gif"  alt="Project demo gif"/>
         <h3>Reddnir</h3>
-        <p>Community-driven social media platform featuring posts, comments, voting, moderation tools, and custom communities. Built with React, Node.js, and PostgreSQL.</p>
+        <p>A comprehensive full-stack Reddit-like social media platform featuring community management, threaded discussions, voting systems, and advanced moderation tools. Built with React, Node.js, Express, and PostgreSQL, spanning 40,000+ lines of TypeScript code developed over 6 months. Demonstrates enterprise-level architecture with 100+ secure API endpoints, complex database relationships, and performance optimizations like virtualization for large datasets.</p>
       </a>
     </td>
   </tr>
