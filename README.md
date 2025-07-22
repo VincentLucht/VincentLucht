@@ -33,7 +33,7 @@
 
 ---
 
-<h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/> My best project</h1>
+<h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" style="margin-right: 15px; margin-top: -12px; vertical-align: middle;"/> My best project</h1>
 
 
 ### GitHub Stats:
