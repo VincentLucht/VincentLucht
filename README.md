@@ -33,10 +33,7 @@
 
 ---
 
-<div style="display:flex; align-items:center; font-size:24px; font-weight:600; gap: 12px">
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/> 
-    My best project
-</div>
+<h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"/> My best project</h1>
 
 
 ### GitHub Stats:
