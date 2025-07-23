@@ -39,13 +39,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLucht&theme=dark&show_icons=true&hide_border=true&layout=compact)
 -->
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLucht&theme=tokyonight&show_icons=true&layout=compact" />
-  &nbsp;
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=vincentlucht&theme=onedark&title=Commit,Repositories,Experience)
-</div>
-&nbsp;
 <table>
   <tr>
     <td>
@@ -53,10 +46,11 @@
     </td>
     <td>
       <img src="https://streak-stats.demolab.com/?user=vincentlucht&theme=tokyonight&hide_current_streak=true" />
-      <img src="https://github-profile-trophy.vercel.app/?username=vincentlucht&theme=onedark&title=Commit,Repositories,Experience" />
     </td>
   </tr>
 </table>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vincentlucht&theme=onedark&title=Commit,Repositories,Experience" />
 
 
 
