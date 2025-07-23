@@ -43,6 +43,10 @@
 
 <img src="https://streak-stats.demolab.com/?user=vincentlucht&theme=tokyonight&hide_current_streak=true" />
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLucht&theme=tokyonight&show_icons=true&layout=compact) ![Trophy](https://github-profile-trophy.vercel.app/?username=vincentlucht&theme=onedark&title=Commit,Repositories,Experience)
+
+![Streak Stats](https://streak-stats.demolab.com/?user=vincentlucht&theme=tokyonight&hide_current_streak=true)
+
 
 &nbsp;
 
