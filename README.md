@@ -29,6 +29,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLucht&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=vincentlucht&theme=onedark&title=Commit,Repositories,Experience)
+
 &nbsp;
 
 
