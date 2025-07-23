@@ -38,7 +38,7 @@
   
   <img src="https://streak-stats.demolab.com/?user=vincentlucht&theme=tokyonight&hide_current_streak=true" />
 </div>
-
+&nbsp;
 ![trophy](https://github-profile-trophy.vercel.app/?username=vincentlucht&theme=onedark&title=Commit,Repositories,Experience)
 
 
