@@ -2,13 +2,13 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
 
 
-# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Vincent
-### A passionate self-taught Full Stack Developer
+# Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, ich bin Vincent
+### Ein leidenschaftlicher selbstgelernter Full Stack Developer
 
-- 📚 I’m currently working through **[Princeton University Algorithms Part I](https://www.coursera.org/learn/algorithms-part1/)**
-- 💼 Open to new opportunities and exciting challenges
-- 💻 I enjoy creating feature rich and complex applications
-- 🌍 Based in Berlin, Germany 🇩🇪
+- 📚 Ich arbeite derzeit an **[Princeton University Algorithms Part I](https://www.coursera.org/learn/algorithms-part1/)**
+- 💼 Auf der Suche nach neuen Möglichkeiten
+- 💻 Ich entwickle gerne funktionsreiche und komplexe Anwendungen
+- 🌍 Aus Berlin, Germany 🇩🇪
 
 
 
@@ -22,13 +22,13 @@
   Skills
 </h2>
 
-### Languages:
+### Sprachen:
 [![Languages](https://skillicons.dev/icons?i=js,ts,python,html,css,sqlite)](https://skillicons.dev)
 
-### Frontend and Backend:
+### Frontend und Backend:
 [![Frontend and backend](https://skillicons.dev/icons?i=react,tailwind,nodejs,express,postgres,prisma)](https://skillicons.dev)
 
-### Technologies and Tools:
+### Technologien und Tools:
 [![Tech Stack](https://skillicons.dev/icons?i=vite,npm,git,jest,vscode,webpack)](https://skillicons.dev)
 
 
@@ -46,14 +46,14 @@
 <table>
   <tr>
     <td align="center" width="45%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLucht&theme=tokyonight&show_icons=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLucht&theme=tokyonight&show_icons=true&locale=de" />
       <br/>
       <div align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=vincentlucht&theme=onedark&title=Commit,Repositories,Experience&row=1&column=3" height="150" />
+        <img src="https://github-profile-trophy.vercel.app/?username=vincentlucht&theme=onedark&title=Commit,Repositories,Experience&row=1&column=3&locale=de" height="150" />
       </div>
     </td>
     <td align="center" width="55%">
-      <img src="https://streak-stats.demolab.com/?user=vincentlucht&theme=tokyonight&hide_current_streak=true" />
+      <img src="https://streak-stats.demolab.com/?user=vincentlucht&theme=tokyonight&hide_current_streak=true&locale=de" />
     </td>
   </tr>
 </table>
@@ -63,4 +63,4 @@
 
 
 
-<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/>&nbsp;&nbsp; Projects I'm proud of:</h2>
+<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/>&nbsp;&nbsp; Projekte auf die ich stolz bin:</h2>
