@@ -12,8 +12,6 @@
   Skills
 </h2>
 
----
-
 ### Languages:
 [![Languages](https://skillicons.dev/icons?i=js,ts,python,html,css,sqlite)](https://skillicons.dev)
 
