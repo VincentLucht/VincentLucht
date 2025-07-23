@@ -63,4 +63,7 @@
 
 
 
-<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/>&nbsp;&nbsp; Projects I'm proud of:</h2>
+<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/>&nbsp;&nbsp; Projects I'm proud of: (view pinned projects)</h2>
+- Reddnir: https://github.com/VincentLucht/project-odin-book
+- Real-Time Messaging App: https://github.com/VincentLucht/project-messaging-app
+- Battleship: https://github.com/VincentLucht/Project-Battleship
