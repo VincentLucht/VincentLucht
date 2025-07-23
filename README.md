@@ -5,7 +5,7 @@
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, ich bin Vincent
 ### Ein leidenschaftlicher selbstgelernter Full Stack Developer
 
-- 📚 Ich arbeite derzeit an **[Princeton University Algorithms Part I](https://www.coursera.org/learn/algorithms-part1/)**
+- 📚 Ich absolviere derzeit den Kurs **[Princeton University Algorithms Part I](https://www.coursera.org/learn/algorithms-part1/)**
 - 💼 Auf der Suche nach neuen Möglichkeiten
 - 💻 Ich entwickle gerne funktionsreiche und komplexe Anwendungen
 - 🌍 Aus Berlin, Germany 🇩🇪
