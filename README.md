@@ -41,6 +41,8 @@
 
 ---
 
+<h2><img src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" alt="GitHub stats"/>Github Stats</h2>
+
 ### GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vincentlucht&show_icons=true&locale=en&layout=compact" alt="vincentlucht" />
