@@ -36,6 +36,8 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=vincentlucht&theme=onedark&title=Commit,Repositories,Experience)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=vincentlucht&theme=dark&hide_current_streak=true)
+
 &nbsp;
 
 
