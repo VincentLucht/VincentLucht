@@ -41,7 +41,7 @@
 </div>
 &nbsp;
 ![trophy](https://github-profile-trophy.vercel.app/?username=vincentlucht&theme=onedark&title=Commit,Repositories,Experience)
-
+![trophy](https://github-profile-trophy.vercel.app/?username=vincentlucht)
 
 &nbsp;
 
