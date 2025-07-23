@@ -3,6 +3,7 @@
 
 - 📚 I’m currently working through **[Princeton University Algorithms Part I](https://www.coursera.org/learn/algorithms-part1/)**
 - 💼 Open to new opportunities and exciting challenges
+- 💻 I enjoy creating feature rich and complex applications
 - 🌍 Based in Berlin, Germany 🇩🇪
 
 &nbsp;
