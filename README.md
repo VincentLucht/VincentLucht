@@ -32,7 +32,7 @@
 -->
 
 
-<div >
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLucht&theme=tokyonight&show_icons=true&layout=compact" />
 
   &nbsp;
