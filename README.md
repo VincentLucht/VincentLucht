@@ -38,6 +38,8 @@
   &nbsp;
   
   ![trophy](https://github-profile-trophy.vercel.app/?username=vincentlucht&theme=onedark&title=Commit,Repositories,Experience)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLucht&theme=tokyonight&show_icons=true&layout=compact) ![Trophy](https://github-profile-trophy.vercel.app/?username=vincentlucht&theme=onedark&title=Commit,Repositories,Experience)
 </div>
 &nbsp;
 
