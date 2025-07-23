@@ -44,7 +44,7 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLucht&theme=tokyonight&show_icons=true&layout=compact" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLucht&theme=tokyonight&show_icons=true&layout=compact" width="350" /></td>
     <td><img src="https://github-profile-trophy.vercel.app/?username=vincentlucht&theme=onedark&title=Commit,Repositories,Experience" /></td>
   </tr>
 </table>
