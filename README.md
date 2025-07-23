@@ -1,4 +1,3 @@
-
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Vincent
 ### A passionate self-taught Full Stack Developer
 
@@ -35,6 +34,8 @@
 
 <div >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLucht&theme=tokyonight&show_icons=true&layout=compact" />
+
+  &nbsp;
   
   <img src="https://streak-stats.demolab.com/?user=vincentlucht&theme=tokyonight&hide_current_streak=true" />
 </div>
