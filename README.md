@@ -41,13 +41,15 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="40%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLucht&theme=tokyonight&show_icons=true" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=vincentlucht&theme=tokyonight&hide_current_streak=true" />
       <br/>
-      <img src="https://github-profile-trophy.vercel.app/?username=vincentlucht&theme=onedark&title=Commit,Repositories,Experience" />
+      <div align="center">
+        <img src="https://github-profile-trophy.vercel.app/?username=vincentlucht&theme=onedark&title=Commit,Repositories,Experience" />
+      </div>
+    </td>
+    <td align="center" width="60%">
+      <img src="https://streak-stats.demolab.com/?user=vincentlucht&theme=tokyonight&hide_current_streak=true" />
     </td>
   </tr>
 </table>
