@@ -31,4 +31,7 @@
 </p>
 
 
+&nbsp;
+
+
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/>&nbsp;&nbsp; Projects I'm proud of:</h2>
