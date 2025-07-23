@@ -1,3 +1,4 @@
+
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, I'm Vincent
 ### A passionate self-taught Full Stack Developer
 
@@ -27,7 +28,16 @@
 
 <h2><img align="center" src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff21366eecda37b3f0c37200dfa871/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" alt="GitHub stats" width="40" />Github Stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLucht&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLucht&theme=onedark&show_icons=true&hide_border=true&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLucht&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLucht&theme=radical&show_icons=true&hide_border=true&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLucht&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLucht&theme=github_dark&show_icons=true&hide_border=true&layout=compact)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=vincentlucht&theme=onedark&title=Commit,Repositories,Experience)
 
