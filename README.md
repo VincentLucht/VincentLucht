@@ -38,6 +38,12 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vincentlucht&theme=tokyonight&hide_current_streak=true)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincentLucht&theme=tokyonight&show_icons=true&layout=compact" width="32%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vincentlucht&theme=onedark&title=Commit,Repositories,Experience" width="32%" />
+  <img src="https://streak-stats.demolab.com/?user=vincentlucht&theme=tokyonight&hide_current_streak=true" width="32%" />
+</div>
+
 
 &nbsp;
 
